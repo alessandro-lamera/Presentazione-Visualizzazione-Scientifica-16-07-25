@@ -7,8 +7,8 @@ In questo progetto cercheremo di esaminare i dei dati ufficiali per arrivare a d
 L'obbiettivo è dare uno spaccato della situazione odierna puramente attraverso dati, per riuscire a comprendere la situazione odierna da un punto di vista più possibile oggettivo
 
 ## Risorse
- -[età media padri]
- https://esploradati.istat.it/databrowser/#/it/dw/categories/IT1,POP,1.0/POP_BIRTHFERT/DCIS_FECONDITA1/IT1,25_326_DF_DCIS_FECONDITA1_8,1.0
+ - [età media padri]
+https://esploradati.istat.it/databrowser/#/it/dw/categories/IT1,POP,1.0/POP_BIRTHFERT/DCIS_FECONDITA1/IT1,25_326_DF_DCIS_FECONDITA1_8,1.0
  - [serie storica nati vivi] https://esploradati.istat.it/databrowser/#/it/dw/categories/IT1,POP,1.0/POP_BIRTHFERT/DCIS_NATI2/IT1,25_74_DF_DCIS_NATI2_1,1.0
  -  [età media delle madri]https://esploradati.istat.it/databrowser/#/it/dw/categories/IT1,POP,1.0/POP_BIRTHFERT/DCIS_NATI2/DCIS_NATI2_PARENTS_CHARACT/IT1,25_74_DF_DCIS_NATI2_7,1.0
  -  [nascite in europa]https://ec.europa.eu/eurostat/databrowser/view/tps00204/default/table?lang=en
